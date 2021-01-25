@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AppService } from 'src/app.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'creditCardDto';
+  userdetails = {};
+  constructor(private readonly appService: AppService){}
+  ngOnInit() {
+  }
+  
 }
