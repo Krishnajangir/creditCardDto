@@ -1,5 +1,5 @@
 # CreditCardDto
-
+This project is basically based on store management concept of angular and you can view this project by following link(https://krishnajangir.github.io/creditCardDto/).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
