@@ -1,5 +1,5 @@
 # CreditCardDto
-This project is basically based on store management concept of angular and you can view this project. And this is a simple project in which first page will store the credit info and showing that info to another page using store.
+This project is basically based on store management concept of angular. And this is a simple project in which first page will store the credit info and showing that info to another page using store.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
